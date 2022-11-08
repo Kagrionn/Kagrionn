@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kagrionn</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/do0PZWU5m4cAAAAC/hololive-minato-aqua.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagrionn&label=Profile%20views&color=0e75b6&style=flat" alt="kagrionn" /> </p>
@@ -14,15 +13,9 @@
 
 - 🤝 I’m looking for help with **Money**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **how to get diamond locks**
 
 - 📫 How to reach me **muhammadabelsaputra@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **Birds can fly**
 
