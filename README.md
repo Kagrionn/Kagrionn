@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **Youtube**
 
-- 🤝 I’m looking for help with **Money**
+- 🤝 I’m looking for help with **Nothing**
 
 - 💬 Ask me about **how to get diamond locks**
 
 - 📫 How to reach me **muhammadabelsaputra@gmail.com**
 
-- ⚡ Fun fact **Birds can fly**
+- ⚡ Fun fact **fish can swim**
 
 <p align="left">
 </p>
