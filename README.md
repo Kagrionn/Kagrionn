@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **muhammadabelsaputra@gmail.com**
 
-- ⚡ Fun fact **fish can swim**
+- ⚡ Fun fact : **fish can swim**
 
 <p align="left">
 </p>
