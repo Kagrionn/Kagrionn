@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Project**
+- 🔭 I’m currently working on **My Project**
 
-- 🌱 I’m currently learning **bootstrap**
+- 🌱 I’m currently learning **CRUD**
 
 - 👯 I’m looking to collaborate on **Youtube**
 
