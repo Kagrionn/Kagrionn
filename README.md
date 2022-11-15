@@ -1,4 +1,4 @@
-<img width="2000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4bhbeaJ9z9YSRXGwPfFlUYk28Vynl2dJYzw&usqp=CAU">
+<img width="2500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4bhbeaJ9z9YSRXGwPfFlUYk28Vynl2dJYzw&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Kagrionn</h1>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/do0PZWU5m4cAAAAC/hololive-minato-aqua.gif">
 
