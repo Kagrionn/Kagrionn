@@ -1,4 +1,4 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/954094963357481320/5A4819E1CCD9BD3AA12BDAA4D2F2D86B581053A5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img src="https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif">
 <h1 align="center">Hi 👋, I'm Kagrionn</h1>
 <img id="ar" align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1019445672644034104/5F7A1DDB787517909A22F91023EA4507C76B2824/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
