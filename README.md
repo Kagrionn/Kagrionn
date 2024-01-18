@@ -1,4 +1,4 @@
-<img src="[https://i.pinimg.com/originals/33/ed/e3/33ede3813b49035b5dc3e1044b8d47fa.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.duhocakina.edu.vn%2Fanime-banners-gif-8kjyfzp1%2F&psig=AOvVaw3aKr3hqCoRhOu8tA22X3d4&ust=1705631781063000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiLzNnz5YMDFQAAAAAdAAAAABA0)">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/264975559042083696/7990DFB260344F756A23B6BC2CE66A02F86BED34/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <h1 align="center">Hi 👋, I'm Kagrionn</h1>
 <img id="ar" align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1019445672644034104/5F7A1DDB787517909A22F91023EA4507C76B2824/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
