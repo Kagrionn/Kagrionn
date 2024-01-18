@@ -1,4 +1,4 @@
-<img src="https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif">
+<img src="https://giffiles.alphacoders.com/760/76088.gif">
 <h1 align="center">Hi 👋, I'm Kagrionn</h1>
 <img id="ar" align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1019445672644034104/5F7A1DDB787517909A22F91023EA4507C76B2824/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
